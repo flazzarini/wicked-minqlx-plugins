@@ -2,12 +2,8 @@
 # Copyright (C) 2015 Mino <mino@minomino.org>
 
 import minqlx
-import random
-import time
-import re
 from random import choice
 
-from minqlx.database import Redis
 
 class wickedplayerdies(minqlx.Plugin):
     """
@@ -18,8 +14,6 @@ class wickedplayerdies(minqlx.Plugin):
 
         - 1733859113 (Westcoastcrew Sound Pack)
     """
-    database = Redis
-
     def __init__(self):
         super().__init__()
         self.add_hook("death", self.handle_death)
