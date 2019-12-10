@@ -93,7 +93,7 @@ class wickedshout(minqlx.Plugin):
         shout_pack = msg[1]
         shout_sound = msg[2]
 
-        shout = self.shoutdb.get(shout_pack, shout_sound)
+        shout = self.shoutdb.get_shout(shout_pack, shout_sound)
 
         if not shout:
             channel.reply(
