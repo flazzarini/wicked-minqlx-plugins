@@ -208,4 +208,52 @@ class wickedshout(minqlx.Plugin):
             Shout('aod', 'miserable', 'shouts/aod/miserable.ogg'),
             Shout('aod', 'run', 'shouts/aod/run.ogg'),
             Shout('aod', 'shopsmart', 'shouts/aod/shopsmart.ogg'),
+
+            Shout('apo', 'napalm', 'shouts/apo/napalm.ogg'),
+
+            Shout('badtaste', 'bastard', 'shouts/badtaste/bastard.ogg'),
+            Shout('badtaste', 'bastards', 'shouts/badtaste/bastards.ogg'),
+            Shout('badtaste', 'bornagain', 'shouts/badtaste/bornagain.ogg'),
+            Shout('badtaste', 'eatlead', 'shouts/badtaste/eatlead.ogg'),
+            Shout('badtaste', 'getya', 'shouts/badtaste/getya.ogg'),
+            Shout('badtaste', 'holyshit', 'shouts/badtaste/holyshit.ogg'),
+            Shout('badtaste', 'lunch', 'shouts/badtaste/lunch.ogg'),
+            Shout('badtaste', 'suckmyspinning', 'shouts/badtaste/suckmyspinning.ogg'),  # noqa
+
+            Shout('braindead', 'devine', 'shouts/braindead/devine_intervention.ogg'),  # noqa
+            Shout('braindead', 'forthelord', 'shouts/braindead/i_kick_ass_for_the_lord.ogg'),  # noqa
+            Shout('braindead', 'mental', 'shouts/braindead/mental.ogg'),
+            Shout('braindead', 'nopudding', 'shouts/braindead/no_pudding.ogg'),
+            Shout('braindead', 'partyover', 'shouts/braindead/party_is_over.ogg'),  # noqa
+            Shout('braindead', 'whatdoyouwant', 'shouts/braindead/what_do_you_want.ogg'),  # noqa
+            Shout('braindead', 'whatingodsname', 'shouts/braindead/what_in_gods_name.ogg'),  # noqa
+
+            Shout('cestarriver', 'bienfait', 'shouts/carriver/bien_fait.ogg'),
+            Shout('cestarriver', 'pourrire', 'shouts/carriver/c_est_pour_rire.ogg'),  # noqa
+            Shout('cestarriver', 'enmerde', 'shouts/carriver/je_temerde.ogg'),  # noqa
+
+            Shout('frighteners', 'graves', 'shouts/fright/get_back_in_your_graves.ogg'),  # noqa
+            Shout('frighteners', 'liestill', 'shouts/fright/lie_still_like_that.ogg'),  # noqa
+            Shout('frighteners', 'numberone', 'shouts/fright/number_one.ogg'),
+            Shout('frighteners', 'omg', 'shouts/fright/omg.ogg'),
+            Shout('frighteners', 'wickedpunished', 'shouts/fright/wicked_punished.ogg'),  # noqa
+            Shout('frighteners', 'youngandbeautiful', 'shouts/fright/young_and_beautiful.ogg'),  # noqa
+
+            Shout('officespace', 'cursing', 'shouts/officespace/cursing.ogg'),
+            Shout('officespace', 'fuckinga', 'shouts/officespace/fuckinga.ogg'),  # noqa
+            Shout('officespace', 'happening', 'shouts/officespace/happening.ogg'),  # noqa
+            Shout('officespace', 'mmyahh', 'shouts/officespace/mmhyahh.ogg'),
+            Shout('officespace', 'mondays', 'shouts/officespace/mondays.ogg'),
+            Shout('officespace', 'ohyahh', 'shouts/officespace/ohyahh.ogg'),
+            Shout('officespace', 'terrific', 'shouts/officespace/terrific.ogg'),  # noqa
+            Shout('officespace', 'uhyahh', 'shouts/officespace/uhyahh.ogg'),
+
+            Shout('wasabi', 'bordelle', 'shouts/wasabi/bordelle.ogg'),
+            Shout('wasabi', 'nonnon', 'shouts/wasabi/nonnon.ogg'),
+            Shout('wasabi', 'piercing', 'shouts/wasabi/piercing.ogg'),
+            Shout('wasabi', 'voila', 'shouts/wasabi/voila.ogg'),
+
+            Shout('werner', 'lassmich', 'shouts/werner/lass_mich_mol_rann_loa.ogg'),  # noqa
+            Shout('werner', 'neeneenee', 'shouts/werner/nee_nee_nee.ogg'),
+            Shout('werner', 'russen', 'shouts/werner/russen.ogg'),
         ])
